@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HorizonZeroCombat/static/css/main.a10e6cda.css",
+    "main.js": "/HorizonZeroCombat/static/js/main.d43caecd.js",
+    "static/media/aloys_theme.mp3": "/HorizonZeroCombat/static/media/aloys_theme.e85c3becb547f13d3388.mp3",
+    "static/media/horizon_zero_dawn.gif": "/HorizonZeroCombat/static/media/horizon_zero_dawn.6525475d9b02d26ea18a.gif",
+    "static/media/machine_attacking2.gif": "/HorizonZeroCombat/static/media/machine_attacking2.fd39990f2f9362f5599e.gif",
+    "static/media/machine_attacking.gif": "/HorizonZeroCombat/static/media/machine_attacking.49431c0491e1e9640255.gif",
+    "static/media/machine_attacking3.gif": "/HorizonZeroCombat/static/media/machine_attacking3.f3b72c9d3c0b4615f247.gif",
+    "static/media/machine_walking.gif": "/HorizonZeroCombat/static/media/machine_walking.f010deecff57e686a17d.gif",
+    "static/media/machine_walking2.gif": "/HorizonZeroCombat/static/media/machine_walking2.a4f00dbe814d28d291a7.gif",
+    "index.html": "/HorizonZeroCombat/index.html",
+    "main.a10e6cda.css.map": "/HorizonZeroCombat/static/css/main.a10e6cda.css.map",
+    "main.d43caecd.js.map": "/HorizonZeroCombat/static/js/main.d43caecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a10e6cda.css",
+    "static/js/main.d43caecd.js"
+  ]
+}
